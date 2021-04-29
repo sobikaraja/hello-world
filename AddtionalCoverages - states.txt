@@ -1,0 +1,13 @@
+AC: 
+AZ -- PC_SSI_AC_AlcoholAndDrugFreeWorkplacePremiumCreditEndorsement
+IL -- PC_SSI_AC_ContractingClassificationPremiumAdjustmentEndorsement
+VT -- NO
+
+
+
+EC:
+
+AZ--PC_SSI_EC_LaborContractorExclusionEndorsement
+IL--PC_SSI_EC_ILSoleProprietorsPartnersOfficers
+IL--PC_SSI_EC_IllinoisKoteckiWaiver
+VT -- NO
